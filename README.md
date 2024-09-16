@@ -17,7 +17,7 @@
 
 ``@cmmv/plugin-vite`` is a simple Vite plugin designed for handling .cmmv template files. It enables basic parsing and loading of templates, scripts, and styles, similar to Vue's SFC (Single File Component) format, but with a reduced scope tailored for lightweight component handling.
 
-This plugin was inspired by the ``[vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue/blob/main/packages/plugin-vue)`` and allows for easy integration of ``.cmmv`` files in Vite projects, focusing on simplicity and performance for component-based development.
+This plugin was inspired by the [``vite-plugin-vue``](https://github.com/vitejs/vite-plugin-vue/blob/main/packages/plugin-vue) and allows for easy integration of ``.cmmv`` files in Vite projects, focusing on simplicity and performance for component-based development.
 
 ## Installation
 
