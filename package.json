@@ -1,16 +1,15 @@
 {
     "name": "@cmmv/plugin-vite",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "type": "commonjs",
     "license": "MIT",
     "author": "Andre Ferreira",
-    "files": [
-        "dist"
-    ],
+    "files": ["dist"],
     "private": false,
     "main": "./dist/index.cjs",
     "module": "./dist/index.mjs",
     "types": "./dist/index.d.ts",
+    "keywords": ["cmmv", "vite", "plugin"],
     "exports": {
         ".": {
             "import": "./dist/index.mjs",
@@ -34,9 +33,6 @@
         "url": "https://github.com/andrehrferreira/vite-plugin-cmmv/issues"
     },
     "homepage": "https://github.com/andrehrferreira/vite-plugin-cmmv#readme",
-    "peerDependencies": {
-        "vite": "^5.0.0"
-    },
     "devDependencies": {
         "@jridgewell/gen-mapping": "^0.3.5",
         "@jridgewell/trace-mapping": "^0.3.25",
