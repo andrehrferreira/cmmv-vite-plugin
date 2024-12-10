@@ -3,8 +3,8 @@
 </p>
 <p align="center">Contract-Model-Model-View (CMMV) <br/> Building scalable and modular applications using contracts.</p>
 <p align="center">
-    <a href="https://www.npmjs.com/package/@cmmv/core"><img src="https://img.shields.io/npm/v/@cmmv/core.svg" alt="NPM Version" /></a>
-    <a href="https://github.com/andrehrferreira/cmmv/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/@cmmv/core.svg" alt="Package License" /></a>
+    <a href="https://www.npmjs.com/package/@cmmv/plugin-vite"><img src="https://img.shields.io/npm/v/@cmmv/plugin-vite.svg" alt="NPM Version" /></a>
+    <a href="https://github.com/andrehrferreira/vite-plugin-cmmv/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/@cmmv/plugin-vite.svg" alt="Package License" /></a>
 </p>
 
 <p align="center">

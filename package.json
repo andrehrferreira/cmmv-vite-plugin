@@ -1,6 +1,6 @@
 {
     "name": "@cmmv/plugin-vite",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "type": "commonjs",
     "license": "MIT",
     "author": "Andre Ferreira",
@@ -10,7 +10,7 @@
     "module": "./dist/index.mjs",
     "types": "./dist/index.d.ts",
     "keywords": ["cmmv", "vite", "plugin"],
-    "description": "CMMV (@plugin-vite)",
+    "description": "Vite CMMV Plugins",
     "exports": {
         ".": {
             "import": "./dist/index.mjs",
