@@ -27,13 +27,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/andrehrferreira/vite-plugin-cmmv.git",
+        "url": "git+https://github.com/cmmvio/cmmv-vite-plugin.git",
         "directory": "packages/plugin-vue"
     },
     "bugs": {
-        "url": "https://github.com/andrehrferreira/vite-plugin-cmmv/issues"
+        "url": "https://github.com/cmmvio/cmmv-vite-plugin/issues"
     },
-    "homepage": "https://github.com/andrehrferreira/vite-plugin-cmmv#readme",
+    "homepage": "https://github.com/cmmvio/cmmv-vite-plugin#readme",
     "devDependencies": {
         "@jridgewell/gen-mapping": "^0.3.5",
         "@jridgewell/trace-mapping": "^0.3.25",
